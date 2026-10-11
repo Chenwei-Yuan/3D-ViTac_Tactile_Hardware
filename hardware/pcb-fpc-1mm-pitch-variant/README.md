@@ -73,13 +73,5 @@
 
 ### Validation
 
-[Designed only / Fabricated / Tested — fill in honestly]
-
-### Author
-
-[Your name] ｜ GitHub: [your username]
-
-## License
-
-CC BY-NC 4.0（与原项目一致 / same as the upstream project）
+[Fabricated]
 
